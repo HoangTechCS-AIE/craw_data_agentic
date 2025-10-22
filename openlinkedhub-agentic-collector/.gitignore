@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+*.log
+.venv/
+.env
+logs/
+data/
+exports/*.jsonl
+!exports/example_run.jsonl
+exports/*.csv
+jobdir/

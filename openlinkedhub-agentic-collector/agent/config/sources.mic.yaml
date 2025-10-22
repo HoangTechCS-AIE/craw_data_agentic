@@ -1,0 +1,5 @@
+listing_urls:
+  - "https://opendata.mic.gov.vn/vi/chi-tiet-du-lieu"
+title_selector: "h3 a::text"
+card_selector: ".dataset-item"
+link_selector: "a[href$='.csv'], a[href$='.json']::attr(href)"

@@ -1,0 +1,3 @@
+portals:
+  - base: "https://data.gov.vn"
+  - base: "https://opendata.danang.gov.vn"
