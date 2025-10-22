@@ -1,0 +1,1 @@
+{"id":"worldbank:IT.NET.USER.ZS:2022","source":"https://api.worldbank.org","dataset":"Individuals using the Internet (% of population)","resource_id":"IT.NET.USER.ZS","tags":["internet"],"indicator":"internet","province":null,"province_code":null,"year":"2022","date":null,"value":75.5,"raw":{"value":75.5},"fetched_at":"2024-03-08T00:00:00Z"}

@@ -1,0 +1,6 @@
+{
+  "Hà Nội": {"code": "HN", "aliases": ["Ha Noi", "Thành phố Hà Nội"]},
+  "Hồ Chí Minh": {"code": "HCM", "aliases": ["Ho Chi Minh", "Thành phố Hồ Chí Minh", "TP. Hồ Chí Minh"]},
+  "Đà Nẵng": {"code": "DN", "aliases": ["Da Nang", "TP. Đà Nẵng"]},
+  "Bắc Ninh": {"code": "BN", "aliases": ["Bac Ninh"]}
+}
